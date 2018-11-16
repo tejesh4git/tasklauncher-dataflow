@@ -1,0 +1,5 @@
+---
+applications:
+  - name: tejesh-pcf
+    mem: 512M
+	path: /var/lib/jenkins/workspace/hcsc-pcf/spring-cloud-starter-stream-sink-task-launcher-dataflow/target/*.jar
